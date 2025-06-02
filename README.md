@@ -28,8 +28,7 @@ task2-product-website/ ├── index.html          # Main webpage (HTML struct
 Once you upload the project to GitHub and enable GitHub Pages:
 
 🌐 *Live Link:*  
-https://.github.io/FUTURE_PE_2/
-
+https://github.com/VidyaSriDolai/FUTURE_PE_2/settings/pages
 ## 🛠️ Tools Used
 
 - *ChatGPT* – AI content generator
