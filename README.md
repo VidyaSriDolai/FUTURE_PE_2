@@ -40,4 +40,4 @@ https://.github.io/FUTURE_PE_2/
 ## 🧠 Credits
 Created as part of the *Xpallin AI Creativity Challenge – Task 2*.  
 By VIDYASRI DOLAI.
-images:
+images:https://github.com/VidyaSriDolai/FUTURE_PE_2/issues/1#issue-3109797970
